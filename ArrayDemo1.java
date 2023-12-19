@@ -15,6 +15,7 @@ public class ArrayDemo1 {
 		System.out.println(arr[2]);
 		System.out.println(arr[3]);
 		System.out.println("Hii Balaji");
+		System.out.println("Bye Rohini");
 			
 	}
 }
